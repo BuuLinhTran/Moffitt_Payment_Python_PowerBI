@@ -22,4 +22,8 @@ Apply upper case, title case. sentence case, data type casting (date time format
 # IV. Dashborad in PowerBI
 Create multipages interactive dashborad answering questions about cashflow, specialty, manufacture and product preferences, PI contributions.
 
+# First look
+![Figure 1]([http://url/to/img.png](https://github.com/BuuLinhTran/Moffitt_Payment_Python_PowerBI/blob/main/Fig_1.png))
+
+
 # End of report.
